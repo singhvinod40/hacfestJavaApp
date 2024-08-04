@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@clusterinote.gbn5yvm.mongodb.net/?retryWrites=true&w=majority&appName=ClusterInote
+      database: task
